@@ -16,6 +16,7 @@ class _eightballState extends State<EightBall> {
     'Without a doubt.',
     'Cannot predict now.',
     'Outlook not so good.',
+    "Go ask your wife "
   ];
 
   String _answer = 'Tap Me for an answer';
